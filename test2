@@ -1,5 +1,8 @@
 added first line
 added from branch1
+<<<<<<< HEAD
 added third line
+=======
+>>>>>>> branch 'branch1' of https://github.com/jdevhari/upload.git
 
 commit
