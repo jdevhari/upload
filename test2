@@ -1,5 +1,9 @@
 added first line
+<<<<<<< Upstream, based on origin/master
 added from master
+=======
+added from branch1
+>>>>>>> ec862d4 added
 added third line
 
 commit
